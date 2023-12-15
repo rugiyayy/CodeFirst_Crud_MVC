@@ -1,0 +1,81 @@
+﻿@model ProductUpdateVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+
+
+<h1 style="padding-left:50px">Product Update Page</h1>
+
+
+<div style="width:70%; margin-left:100px">
+<form asp-controller="Product" asp-action="Update" method="post" class="row g-3" enctype="multipart/form-data">
+    <div class="text-danger" asp-validation-summary="All">
+    </div>
+
+    <div class="col-md-12">
+        <label for="1" class="form-label">Product Name</label>
+            <input asp-for="Name" class="form-control" id="1" style="width:50%">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    
+        <div class="col-md-4">
+            <label for="4" class="form-label">Categories</label>
+            <select asp-for="CategoryId" asp-items="@Model.Categories" style="
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border-radius: 7px;
+    border-color: #80808042;
+"
+  >
+                <option>Please select one</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <label for="2" class="form-label">Product Price</label>
+            <input asp-for="Price" type="number"  class="form-control" id="2" style="width:40%"
+                   value="@Model.Price.ToString("C2")>
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
+   
+    <div id="for-imgg" style="width:100%">
+
+            @if (Model.ProductImageName != null)
+            {
+                <img class="update-img" style="width: 15%;" src="~/img/@Model.ProductImageName" />
+            }
+
+    </div>
+
+    <div class="col-md-4">
+        <label for="5" class="form-label">Photo</label>
+        <input asp-for="Photo" class="form-control img-input" id="5">
+        <span class="text-danger" asp-validation-for="Photo"></span>
+    </div>
+
+    <input asp-for="Id" type="hidden">
+
+
+    
+
+
+    <div class="col-12" style="margin-bottom:20px">
+        <button type="submit" class="btn btn-primary">Update product</button>
+    </div>
+</form>
+</div>
+
+@section ValidationScript{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}
+
+@section PageScripts{
+    <script src="~/js/productUpdate.js"></script>
+}

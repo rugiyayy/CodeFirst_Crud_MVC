@@ -1,0 +1,52 @@
+﻿@model CustomerUpdateVM
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+
+
+
+<h1 style="text-align:center;margin: auto;padding: 50px 0;">Customer Update page</h1>
+
+<form asp-controller="Customer" asp-action="Update" method="post" class="row g-3" style="margin-left:50px">
+    <div class="text-danger" asp-validation-summary="All">
+    </div>
+
+    <div class="col-md-12">
+        <label for="1" class="form-label">FirstName</label>
+        <input asp-for="FirstName" class="form-control" id="1" style="width:50%">
+        <span class="text-danger" asp-validation-for="FirstName"></span>
+    </div>
+
+
+    <div class="col-md-12">
+        <label for="1" class="form-label">LastName</label>
+        <input asp-for="LastName" class="form-control" id="1" style="width:50%">
+        <span class="text-danger" asp-validation-for="LastName"></span>
+    </div>
+
+
+    <div class="col-md-12">
+        <label for="1" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" id="1" style="width:50%">
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+
+
+    <input asp-for="Id" type="hidden">
+
+
+
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Update Customers</button>
+    </div>
+</form>
+
+@section ValidationScript{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}

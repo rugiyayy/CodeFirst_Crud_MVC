@@ -1,0 +1,35 @@
+﻿@model CustomerAddVM
+
+<h1 style ="text-align:center;margin: auto;padding: 50px 0;">Customer add page</h1>
+
+<form  asp-controller="Customer" asp-action="Add" method="post" class="row g-3" style="margin-left:50px">
+    <div class="text-danger" asp-validation-summary="All">
+    </div>
+
+    <div class="col-md-12">
+        <label for="1" class="form-label">Customer FirstName</label>
+        <input asp-valid asp-for="FirstName" type="text" class="form-control" id="1">
+        <span class="text-danger" asp-validation-for="FirstName"></span>
+    </div>
+   
+     <div class="col-md-12">
+        <label for="2" class="form-label">Customer FirstName</label>
+        <input asp-valid asp-for="LastName" type="text" class="form-control" id="2">
+        <span class="text-danger" asp-validation-for="LastName"></span>
+    </div>
+     <div class="col-md-12">
+        <label for="3" class="form-label">Email</label>
+        <input asp-valid asp-for="Email" type="text" class="form-control" id="3">
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="col-12">
+        <button type="submit" class="btn btn-primary">Add Customer</button>
+    </div>
+</form>
+
+@section ValidationScript{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+}

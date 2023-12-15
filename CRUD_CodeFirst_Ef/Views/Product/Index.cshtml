@@ -1,0 +1,67 @@
+﻿@model ProductIndexVM
+
+<section class="blog_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Product List
+                <a asp-controller="Product" asp-action="Add" class="btn btn-success">
+                    <span>
+                        Add
+                    </span>
+                    <i class="fa-solid fa-plus"></i>
+                </a>
+            </h2>
+        </div>
+        <div class="row">
+
+
+
+            @foreach (var product in Model.Products)
+            {
+                <div class="col-md-6 col-lg-4">
+                    <div class="box">
+                        <div class="img-box">
+                            @if (product.ProductImage is null)
+                            {
+                                <p class="card-text">No photo available</p>
+
+                            }
+                            else
+                            {
+                                <img src="~/img/@product.ProductImage.ProductImageName" style="height:50vh" />
+                            }
+                        </div>
+                        <div class="detail-box">
+                            <h5>
+                                @product.Name
+                            </h5>
+                            <p class="card-text">Price: @product.Price</p>
+                            <p class="card-text">Category: @product.Category.Name</p>
+
+                            <div class="for-delete-update" style="display: flex ; justify-content: space-between; align-items: center;">
+                                <a asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id" style="padding: 12px 44px; background-color: rgb(71, 137, 244); border-color: rgb(71, 137, 244);">
+                                     Delete
+                                </a>
+                                <a asp-controller="Product" asp-action="Update" asp-route-id="@product.Id" style="padding: 12px 44px; background-color: red; border-color: red;">
+                                    Update
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+
+
+          
+
+        </div>
+    </div>
+</section>
+
+
+

@@ -1,0 +1,30 @@
+﻿@model CategoryIndexVM
+
+
+<div style="margin-left:50px" class="d-flex justify-content-between align-items-center">
+    <h1 style="text-align:center;margin: auto;padding: 50px 0;">
+        Category
+        <a asp-controller="Category" asp-action="Add" class="btn btn-success">
+            <span>
+                Add
+            </span>
+            <i class="fa-solid fa-plus"></i>
+        </a>
+    </h1>
+</div>
+
+<div style="display:flex;flex-wrap:wrap; gap:20px; margin-left:50px">
+
+    @foreach (var category in Model.Categories)
+    {
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 style="padding:20px 0" class="card-title mb-2 text-muted">Category: @category.Name</h5>
+                <a asp-controller="Category" asp-action="Delete" asp-route-id="@category.Id" class="btn btn-danger">Delete</a>
+                <a style="margin:0px 20px"  asp-controller="Category" asp-action="Update" asp-route-id="@category.Id" class="btn btn-warning">Update</a>
+            </div>
+        </div>
+    }
+
+
+</div>

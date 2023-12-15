@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\CRUD_CodeFirst_Ef.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CRUD_CodeFirst_Ef.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css1\\site.css",
+      "PackagePath": "staticwebassets\\css1\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-06-09 200258.pngd4e5fe4d-00ce-48c0-8cf6-707b0c63ad71.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-06-09 200258.pngd4e5fe4d-00ce-48c0-8cf6-707b0c63ad71.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 231645.png10ef4306-9c38-4fb4-ac3c-a46d60971da8.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 231645.png10ef4306-9c38-4fb4-ac3c-a46d60971da8.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 231645.png761684c1-f062-4394-aefb-936e8583d197.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 231645.png761684c1-f062-4394-aefb-936e8583d197.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 231645.png9bd8b67a-070f-4155-b6f7-52027b80b84e.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 231645.png9bd8b67a-070f-4155-b6f7-52027b80b84e.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 231645.pnge6662c16-3aa2-4dfb-8264-307147687102.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 231645.pnge6662c16-3aa2-4dfb-8264-307147687102.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 231645.pnge6e96e4f-3a19-4915-9a4f-05293c72d580.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 231645.pnge6e96e4f-3a19-4915-9a4f-05293c72d580.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 233552.png094da820-d357-4c0f-9af1-99877f8b8ae4.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 233552.png094da820-d357-4c0f-9af1-99877f8b8ae4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 233552.png0d0b8016-b607-40b5-a1b0-a294d5c92345.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 233552.png0d0b8016-b607-40b5-a1b0-a294d5c92345.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 233552.png14d93efe-6f2d-40d9-81c1-4604ce93caba.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 233552.png14d93efe-6f2d-40d9-81c1-4604ce93caba.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 233552.png8156cd91-e2e6-4d3d-97d9-1b975eef9f4b.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 233552.png8156cd91-e2e6-4d3d-97d9-1b975eef9f4b.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 233552.pnge8baa391-9203-495a-bd69-3d3d4977eafd.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 233552.pnge8baa391-9203-495a-bd69-3d3d4977eafd.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\img\\Screenshot 2023-12-13 233552.pngf497596d-cc4d-454d-8eab-a1d0d32522af.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2023-12-13 233552.pngf497596d-cc4d-454d-8eab-a1d0d32522af.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\js\\productUpdate.js",
+      "PackagePath": "staticwebassets\\js\\productUpdate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\CRUD_CodeFirst_Ef\\CRUD_CodeFirst_Ef\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.CRUD_CodeFirst_Ef.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.CRUD_CodeFirst_Ef.props",
+      "PackagePath": "build\\CRUD_CodeFirst_Ef.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUD_CodeFirst_Ef.props",
+      "PackagePath": "buildMultiTargeting\\CRUD_CodeFirst_Ef.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.CRUD_CodeFirst_Ef.props",
+      "PackagePath": "buildTransitive\\CRUD_CodeFirst_Ef.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
